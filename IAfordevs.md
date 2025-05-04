@@ -55,5 +55,5 @@ En este documento, se expone cómo un proceso tradicional puede mejorarse median
 
 ## 5. Reflexión Personal
 Yo fui parte de un call center como primer trabajo pero desde una perspectiva muy lógica siempre pensaba que es un trabajo el cual es "muy sencillo" y que sería fácil de implementar un modelo de IA que claramente dejaría sin trabajo a muchas personas.
-Ahora desde un punto de vista mas objetivo siento que tanto las empresas como los trabajadores de esta área toman ventaja de sus contrapartes, y, un cambio al flujo de trabajo sería algo ideal, pero no creo que se automatice muy pronto, las personas son
-muy  arraigadas a sus costumbres.
+
+Ahora desde un punto de vista mas objetivo siento que tanto las empresas como los trabajadores de esta área toman ventaja de sus contrapartes, y, un cambio al flujo de trabajo sería algo ideal, pero no creo que se automatice muy pronto, las personas son muy  arraigadas a sus costumbres.
